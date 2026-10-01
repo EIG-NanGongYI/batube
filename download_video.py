@@ -89,7 +89,7 @@ def download_and_merge(url):
 
 if __name__ == "__main__":
     print("="*60)
-    print("         YouTube 视频自动下载工具")
+    print("         Batube 视频自动下载工具 基础版")
     print("         支持最高画质 + 自动合并音视频")
     print("="*60)
 
